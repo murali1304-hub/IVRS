@@ -32,6 +32,22 @@ pyaudio
 pyjokes
 colorama
 
+Package installation:
+
+pip install SpeechRecognition
+
+pip show SpeechRecognition
+
+pip install PyAudio
+
+pip install pyttsx3
+
+SpeechRecognition pyjokes colorama
+
+
+python --version
+
+pip install path\to\PyAudio‑0.2.11‑cp311‑cp311‑win_amd64.whl
 
 
 
